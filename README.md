@@ -1,6 +1,8 @@
-
-# VRNanoDegreeRubeGoldbergChallenge
+# VR Nano Degree Rube Goldberg Challenge
 Monigarr's project work for the Rube Goldberg Challenge
+Start: 04/17/2017
+Submitted for Grading:
+
 
 ## This project is about combining ideas and skills we’ve been practicing throughout the course:
 -Adding SteamVR and the Oculus SDK to a Unity Project
